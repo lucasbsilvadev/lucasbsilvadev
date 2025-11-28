@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas!
 
-### 💻 Desenvolvedor Fullstack | PHP • Node.js • Python • Java
+### 💻 Desenvolvedor Fullstack | PHP • Python • Java
 
 Com experiência sólida em desenvolvimento WEB, na criação tanto de interfaces funcionais e intuitivas até backends robustos, integrações e APIs.  
 Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às necessidades do negócio.

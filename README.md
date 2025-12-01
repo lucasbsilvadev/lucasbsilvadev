@@ -29,9 +29,6 @@ Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às 
 
 ---
 
-
----
-
 ## 🌐 Projetos que tenho desenvolvido
 - Landing Pages Profissionais – foco em UX/UI  
 - Sistemas Web fullstack – autenticação, dashboards, integrações  

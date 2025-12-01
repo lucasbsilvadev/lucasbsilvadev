@@ -36,7 +36,7 @@ Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbsilvadev&layout=compact&theme=dracula)
 
 ---
 ## 📫 Contato

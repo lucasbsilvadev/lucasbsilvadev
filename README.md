@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou o Lucas!
+# Olá, eu sou o Lucas!
 
-### 💻 Desenvolvedor Fullstack | React • Python • Java
+### Desenvolvedor Fullstack | React • Python • Java
 
 Com experiência sólida em desenvolvimento WEB, na criação tanto de interfaces funcionais e intuitivas até backends robustos, integrações e APIs.  
 Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às necessidades do negócio.
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Frontend
 - React • Vite  
@@ -29,13 +29,16 @@ Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às 
 
 ---
 
-## 🌐 Projetos que tenho desenvolvido
+## Projetos que tenho desenvolvido
 - Landing Pages Profissionais – foco em UX/UI  
 - Sistemas Web fullstack – autenticação, dashboards, integrações  
 - Automações com Python – rotinas administrativas, planilhas, ETL  
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula)
+
+---
 ## 📫 Contato
 📩 Email: barbosalucas912@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/lucasdosreisdev  

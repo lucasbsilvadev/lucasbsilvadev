@@ -31,12 +31,8 @@ Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às 
 
 ## Projetos que tenho desenvolvido
 - Landing Pages Profissionais – foco em UX/UI  
-- Sistemas Web fullstack – autenticação, dashboards, integrações  
+- Sistemas Web fullstack – autenticação, dashboards, integrações 
 - Automações com Python – rotinas administrativas, planilhas, ETL  
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbsilvadev&layout=compact&theme=dracula)
 
 ---
 ## 📫 Contato

@@ -29,9 +29,6 @@ Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às 
 
 ---
 
-## 📈 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbsilvadev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbsilvadev&layout=compact&theme=tokyonight)
 
 ---
 

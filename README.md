@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Fullstack | React • Python • Java
 
-Com experiência sólida em desenvolvimento WEB, na criação tanto de interfaces funcionais e intuitivas até backends robustos, integrações e APIs.  
+Com experiência sólida em desenvolvimento WEB, na criação tanto de interfaces funcionais e intuitivas até backends complexos, integrações e APIs.  
 Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às necessidades do negócio.
 
 ---

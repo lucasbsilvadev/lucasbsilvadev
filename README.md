@@ -21,7 +21,8 @@ Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às 
 - Java (experiência prática em projetos acadêmicos e empresariais)
 
 ### Banco de Dados
-- MySQL • PostgreSQL • Supabase
+- MySQL
+-  PostgreSQL • Supabase
 
 ### DevOps & Ferramentas
 - Git • GitHub  

@@ -26,7 +26,8 @@ Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às 
 
 ### DevOps & Ferramentas
 - Git • GitHub  
-- Docker (conceitos)
+- Docker
+- K8s
 
 ---
 

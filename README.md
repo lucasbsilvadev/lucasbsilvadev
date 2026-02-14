@@ -1,38 +1,51 @@
 # Olá, eu sou o Lucas!
 
-### Desenvolvedor Fullstack | React • Python • Java
+### Desenvolvedor Fullstack | React • Python • SQL
 
-Com experiência sólida em desenvolvimento WEB, na criação tanto de interfaces funcionais e intuitivas até backends complexos, integrações e APIs.  
-Mantenho meu foco em soluções escaláveis, de alto desempenho e alinhadas às necessidades do negócio.
+Acredito veementemente que a tecnologia serve como facilitadora de processos, beneficiando diretamente e incentivando a evolução da qualidade de vida humana.
+Com esse propósito, busco aprimorar diariamente minha capacidade em soluções inteligentes para demandas específicas - com foco em sistemas WEB, Cloud e automações.
+Em minha vivência prática com desenvolvimento de sistemas, priorizo arquiteturas escaláveis, funcionalidades robustas e codificação intuitiva.
 
 ---
 
 ## Tecnologias e Ferramentas
 
 ### Frontend
-- React • Vite  
-- HTML5 • CSS3 • JavaScript  
-- TailwindCSS • Figma (UI/UX)
+
+- React (construção de interfaces orientadas ao comportamento)
+- Typescript (desenvolvimento de componentes padronizados)
+
+### Estilização
+
+- MaterialUI (exploração de recursos para otimização do design e codificação)
+- Figma (prototipação com foco em UI/UX)
 
 ### Backend
-- PHP (experiência sólida com aplicações e APIs)  
 - Node.js (Express, integrações e serviços)  
-- Python (automação, análise e scripts de apoio)  
-- Java (experiência prática em projetos acadêmicos e empresariais)
+- Python (automações, API's e scripts de apoio)  
+- Java (experiência prática em projetos acadêmicos)
 
 ### Banco de Dados
-- MySQL
--  PostgreSQL • Supabase
+- MySQL (ambientes locais)
+- PostgreSQL (ambientes de produção)
 
-### DevOps & Ferramentas
+
+### Cloud/Implantação
+- Kubernetes  (gerenciamento de contêineres e imagens).
+- Docker (criação e gerenciamento de ambientes isolados).
+
+
+### Implantação
+- Render (Deploy de sistemas WEB)
+- Supabase (Hospedagem de bancos de dados e Armazenamento de dados não estruturados (documentos, imagens, etc)).
+- 
+### Git
+
 - Git • GitHub  
-- Docker
-- K8s
-
 ---
 
 ## Projetos que tenho desenvolvido
-- Landing Pages Profissionais – foco em UX/UI  
+- Automações de Business Intelligence em ambientes corporativos envolvendo processos de ETL
 - Sistemas Web fullstack – autenticação, dashboards, integrações 
 - Automações com Python – rotinas administrativas, planilhas, ETL  
 

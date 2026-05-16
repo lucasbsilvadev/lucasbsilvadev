@@ -12,7 +12,7 @@ Em minha vivência prática com desenvolvimento de sistemas, priorizo arquitetur
 
 ### Frontend
 
-- React (construção de interfaces orientadas ao comportamento)
+- React (construção de interfaces responsivas)
 - Typescript (desenvolvimento de componentes padronizados)
 
 ### Estilização

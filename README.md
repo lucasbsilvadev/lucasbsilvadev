@@ -12,21 +12,19 @@ Em minha vivência prática com desenvolvimento de sistemas, priorizo arquitetur
 
 ### Frontend
 
-- React (construção de interfaces responsivas).
-- Typescript (desenvolvimento de componentes padronizados).
+- React (construção de interfaces responsivas/desenvolvimento de componentes padronizados).
 
 ### Estilização
 
 - MaterialUI (exploração de recursos para otimização do design e codificação).
-- Figma (prototipação com foco em UI/UX).
+- Prototipação com foco em UI/UX.
 
 ### Backend
-- Node.js (Express, integrações e serviços).
 - Python (automações, API's e scripts de apoio).  
-- Java (experiência prática em projetos acadêmicos).
+- Java (POO, herança, polimorfismo, abstração e encapsulamento).
 
 ### Banco de Dados
-- MySQL (ambientes locais).
+- MySQL/PostgreSQL (ambientes locais).
 - PostgreSQL (ambientes de produção).
 
 
@@ -36,13 +34,15 @@ Em minha vivência prática com desenvolvimento de sistemas, priorizo arquitetur
 
 
 ### Implantação
-- Render (Deploy de sistemas WEB).
-- Supabase (Hospedagem de bancos de dados).
+- Render (Deploy de web-services front e back-end).
+- Supabase (Hospedagem de bancos de dados/functions).
+- Oracle Cloud Infrastructure (IAM, UFW, TRACEROUTING, etc)
+- Microsoft Azure (DB's gerenciados)
 - Cloudinary (Armazenamento de dados não estruturados (documentos, imagens, etc))
 
 ### Git
 
-- Git • GitHub  
+- Git 
 
 
 ## Projetos que tenho desenvolvido

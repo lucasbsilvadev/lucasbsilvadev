@@ -42,7 +42,13 @@ Em minha vivência prática com desenvolvimento de sistemas, priorizo arquitetur
 
 ### Git
 
-- Git 
+- Commit patterns
+- CI/CD
+
+### Testes
+
+- pytest
+- TDD (Test-Driven Development)
 
 
 ## Projetos que tenho desenvolvido
